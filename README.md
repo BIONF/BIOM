@@ -9,15 +9,6 @@ This is the university project for the database improvements.
 
 ## Installation
 
-
-### For windows 
-
-```batch
-python -m venv .venv
-.venv/Scripts/activate.bat
-pip install -r ./src/requirements.txt
-```
-
 ### For Linux 
 
 ```batch
