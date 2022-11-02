@@ -1,4 +1,4 @@
-# uni
+# BIOM
 
 This is the university project for the database improvements.
 
